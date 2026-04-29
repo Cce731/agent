@@ -1,0 +1,7 @@
+PyMuPDF>=1.23.0
+openai>=1.0.0
+click>=8.0.0
+rich>=13.0.0
+tqdm>=4.65.0
+python-docx>=0.8.11
+pytest>=7.0.0
